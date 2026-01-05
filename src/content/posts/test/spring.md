@@ -2,7 +2,7 @@
 ---
 title: imissu♡
 published: 2026-01-05
-description: "等待太累"
+description: "My Instincts Are the Enemy"
 tags: ["HK", "Better", "Tomorrow"]
 category: 随笔
 draft: false
