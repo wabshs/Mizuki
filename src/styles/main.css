@@ -26,6 +26,15 @@
   font-display: swap;
 }
 
+/* 导入Maple-font CN */
+@font-face {
+  font-family: "MapleMono-CN-Medium";
+  src: url("/assets/font/MapleMono-CN-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
