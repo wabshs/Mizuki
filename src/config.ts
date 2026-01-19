@@ -308,9 +308,9 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/nanako.png", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
+	avatar: "assets/images/nanako1.png", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 	name: "Saeki Nanako",
-	bio: "让我能做回我自己",
+	bio: "今夜我陪你化成灰",
 	typewriter: {
 		enable: true, // 启用个人简介打字机效果
 		speed: 80, // 打字速度（毫秒）
